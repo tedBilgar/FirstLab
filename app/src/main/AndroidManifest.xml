@@ -24,6 +24,11 @@
                 android:label="@string/title_activity_first_weekend"
                 android:theme="@style/AppTheme.NoActionBar">
         </activity>
+        <activity
+                android:name=".SecondWeekendActivity"
+                android:label="@string/title_activity_second_weekend"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>

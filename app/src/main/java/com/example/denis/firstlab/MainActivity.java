@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onButtonClickSecond(View view){
-
+        Intent intent = new Intent(this,SecondWeekendActivity.class);
+        startActivity(intent);
     }
 }
